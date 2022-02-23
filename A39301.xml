@@ -1,0 +1,264 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Deceit discovered and malice manifested in L. Key's late paper from Reading the third of the fourth month 1693. By Thomas Elwood.</title>
+            <author>Ellwood, Thomas, 1639-1713.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39301</idno>
+            <idno type="STC">Wing E617</idno>
+            <idno type="STC">ESTC R213542</idno>
+            <idno type="EEBO-CITATION">99825898</idno>
+            <idno type="PROQUEST">99825898</idno>
+            <idno type="VID">30289</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39301)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30289)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1758:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Deceit discovered and malice manifested in L. Key's late paper from Reading the third of the fourth month 1693. By Thomas Elwood.</title>
+                  <author>Ellwood, Thomas, 1639-1713.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed and sold by T. Sowle, at the Crooked-Bilet in Holy-well-Lane in Shoreditch,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Bevan-Naish Collection, Woodbrooke College, Selly Oak, Birmingham (England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Key, Leonard --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:30289:1"/>
+            <head>
+               <hi>Deceit Diſcovered and Malice Manifeſted</hi> In L. KEY'S late Paper from READING the third of the fourth Month 1693.</head>
+            <byline>By THOMAS ELWOOD.</byline>
+            <p>BEing lately in <hi>London,</hi> I there ſaw a Paper, Subſcribed by <hi>B. Coal,</hi> and recommended to the Preſs by <hi>C. Harris,</hi> propoſing <hi>Expedients for a true Reconciliation among the People of God called Quakers.</hi> At the reading whereof conſidering with my ſelf the <hi>manifeld Re<g ref="char:EOLhyphen"/>proaches</hi> that have been caſt upon Friends in Print, by divers of that Party that have oppoſed Friends, whereby Friends have been publickly <hi>traduced</hi> and <hi>defamed,</hi> being repreſented to the World as <hi>Apoſtates</hi> and <hi>Innovators, Idolaters, ſetters up of Images and Idols, Introducers of Popery, and but one ſtep from it,</hi> with more of like kind, in bitter-Terms expreſt, it ſeemed ſtrange to me that the Authors of that Paper (if they were in earneſt in what they propoſed) ſhould offer Ex<g ref="char:EOLhyphen"/>pedients for a Reconciliation, before they had given Friends and the World ſatisfaction that they are now ſenſible we are not what they (or ſome of their Party) have miſrepreſented us to be; which their ſeeming to deſire a Reconciliation with us implies, &amp; which we may charitably hope ſome among them ſincerely intend: for they would render themſelves guilty of <hi>groſs Hy<g ref="char:EOLhyphen"/>pocriſie</hi> indeed, in deſiring to be reconciled to us, if they yet believe us to be ſuch. It had been fit therefore that before other Expedients for Reconciliation had been offered by ſuch who had <hi>falſty accuſed</hi> Friends, and expoſed our holy Profeſſion to the Contempt of the prophane, they ſhould have acknowledged their Evil in having ſo done, and given Proof of their Repentance thereof, that by, firſt clearing us from thoſe <hi>falſe Accuſations,</hi> they might have declared us to be ſuch, as men pretending to Truth and Godlineſs, might fairly be reconciled to; and might there<g ref="char:EOLhyphen"/>by have given us ſome ground to hope, that as the ſincerity of their Repentance ſhould mani<g ref="char:EOLhyphen"/>feſt it ſelf, by an honeſt and hearty <hi>Confeſſing</hi> and <hi>for ſaking</hi> their former Works of <hi>Envy, Strife, Bitterneſs, Railing, Falſe-accuſing, Diviſion</hi> and <hi>Separation,</hi> we ſhould feel them return in the Peace<g ref="char:EOLhyphen"/>able Spirit of Truth, in which we could with gladneſs receive them, and in which only we can be truly reconciled to them.</p>
+            <p>When I returned home, I there found a Letter directed to me from <hi>L. Key</hi> of <hi>Reading,</hi> with a Printed ſheet incloſed therein, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Terms and Tendency ſo contrary to the before mentioned Paper ſigned by <hi>B. C.</hi> and <hi>C. H.</hi> (<hi>That</hi> propoſing Expedients for <hi>Peace,</hi> and <hi>Reconciliation: This</hi> renewing the <hi>Difference,</hi> and ſtirring up <hi>Contention</hi> a fleſh) that I could not but wonder at it; and the rather becauſe I had underſtood that <hi>L. Key</hi> (if he himſelf did not bring up that Paper of <hi>B. Coals</hi> to be printed) was very active and buſy in ſpreading it after it was Printed, which ſhewed he was privy and conſenting thereunto. Comparing the Dates of theſe two Papers to<g ref="char:EOLhyphen"/>gether, I found them both dated from <hi>Reading,</hi> one of them on the <hi>3d.</hi> the other on the <hi>4th.</hi> of the <hi>4th</hi> Month 1693. <hi>not one day between.</hi> And ſo Contrary are the Terms and tendencies of them, one to the other, that hardly any thing can be more. For in the Propoſals for Reconciliation, they ſay, <hi>Let all Whiſperings, Backbitings, Wrath and Envy be watched againſt and denied:</hi> Yet the other Paper, Signed by <hi>L. Key,</hi> is made up moſtly of <hi>Back bitings, Wrath</hi> and <hi>Envy.</hi> In their Paper for Reconciliation they ſay, <hi>All things relating to former Differences, let it be buried in Ob<g ref="char:EOLhyphen"/>livion on all hands:</hi> Yet in the other Paper, Signed by <hi>L. Key,</hi> the Reader is bid <hi>See the Memo<g ref="char:EOLhyphen"/>rial for the preſent Generation, and alſo for that which is to come; It gives</hi> (ſays he) <hi>an account of the Difference that hath happened among the People called Quakers in thoſe parts; Alſo ſee the Revival that was publiſhed from Reading in</hi> 1692. <hi>it giving an Account how the Difference was brought in there.</hi> (This Paper which he calls the <hi>Revival,</hi> was a ſingle Sheet Signed by <hi>L. Key</hi> himſelf (<hi>I. R.</hi> and <hi>C. H.</hi> Signing ſome part of it) in which about half a Score of their Contentious, and abuſive Pamphlets are named, and recommended to the Readers view.) Thus while in one Paper Re<g ref="char:EOLhyphen"/>conciliation is propoſed, and that not only former Differences, but all <hi>things relating thereunto,</hi> ſhould be buried in Oblivion (that is, be utterly forgotten, never to be mentioned or remembred any more:) in the other Paper (left the Difference ſhould dye, or be forgotten) the Titles of thoſe former Printed Papers (wherein, he ſays, an Account is given of the Difference, and how it was brought in here and there) are reprinted, and the Reader referr'd a freſh to them, for <hi>fur<g ref="char:EOLhyphen"/>ther</hi> information in the Difference; and particularly to that paper of <hi>J. Raunce</hi> and <hi>G. Harris,</hi> which appears by its Title to be intended for a <hi>laſting Monument</hi> of the Difference, to continue it in Remembrance, that it might not be forgotten either in this Age or the next, and therefore was called <hi>A Memorial for the preſent Generation, and alſo for that which is to come.</hi> Was this the way to bury the Difference in Oblivion? Or was this plain and honeſt dealing in <hi>L. Key,</hi> to reprint the Titles of thoſe Papers, which he himſelf ſays give Account of the diffe<g ref="char:EOLhyphen"/>rence, and recommend them <hi>anew</hi> to his Reader at the <hi>ſame time</hi> that he is ſpreading the Expe<g ref="char:EOLhyphen"/>dient for Reconciliation, in which all things relating to former Differences are propoſed to be buried in Oblivion on all hands? <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> would not charge this <hi>double-Dealing</hi> upon the whole Par<g ref="char:EOLhyphen"/>ty nor upon any of that Party that are not guilty thereof; but upon ſuch only as take it upon themſelves by ſpreading or owning both thoſe Papers, as ſome I know have done, particularly <hi>J. Raunce,</hi> who hath ſent them abroad together, thereby concerning himſelf alike in the one as in the other. But I recommend it to the Conſideration of all of that Party, who would be ac<g ref="char:EOLhyphen"/>counted ſincere and honeſt, how little it makes for their Reputation to hold Communion with ſuch, and how much it concerns them to clear themſelves from owning <hi>L. Key,</hi> and tho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that abet him, herein, who by this <hi>deceitful Dealing</hi> have manifeſted themſelves to be like thoſe <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ork<g ref="char:EOLhyphen"/>ers of Iniquity,</hi> whom the <hi>Pſalmiſt</hi> mentions, (<hi>Pſal.</hi> 28.3.) <hi>which ſpeak peace to their Neighbours but miſchief is in their Hearts.</hi> Having premiſed this, I ſhall now take notice of ſome particular paſſages in <hi>L. Key's</hi> Paper.</p>
+            <p>Firſt, I obſerve the Account I formerly gave of that <hi>Scandalous</hi> Marriage (of the Woman that lay with her Father) promoted and highly contended for by <hi>J. R.</hi> and <hi>C. H.</hi> and carried on a<g ref="char:EOLhyphen"/>gainſt the mind of Friends, hath ſtuck ſo faſt on them ever ſince, that they have not been able to clear themſelves of it, though they have laboured at it with all their might, and uſed many tricks to do it. Firſt they gave out that I writ the Certificate, inſinuating thereby that I owned that Marriage as well as they. But I having cleared that point in my Anſwer to <hi>L. Key</hi>'s former Pa<g ref="char:EOLhyphen"/>per, and thereby laid their <hi>Deceit</hi> more open, their Agent <hi>L. Key</hi> in his laſt She<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hath publi<g ref="char:EOLhyphen"/>ſhed a Paper Subſcribed by the Woman her ſelf, which he introduces thus, <hi>viz.</hi> [<hi>And a Paper is made publick, that was left by the Woman that he hath ſo much reviled, and is not in being to Anſwer for her ſelf</hi>] Who, thus ſhould read theſe Words, and knew not the Buſineſs before hand, but would conclude the Woman at the time of her death, had left this Paper behind her to clear her ſelf of that Report? Whereas in plain Truth, the Paper there mentioned, was by the Woman her ſelf, delivered to the Monthly Meeting (before ſhe Married) under pretence (<hi>not of Clearing,</hi> but) of <hi>Condemning</hi> her ſelf for what ſhe had done; and is the very ſame Paper I formerly mentioned in my Book called <hi>The Account from Wickham examined,</hi> &amp;c. p. 4. The Original of which Paper as delivered by the Woman, I have in my keeping, writen (if I do not miſtake the Hand) in <hi>C. Harris</hi> his own hand Writing, by whom it was then underſtood to be drawn up for her, and was ſo favourably Worded, that it ſeemed rather to palliat and excuſe her Offence, than con<g ref="char:EOLhyphen"/>demn it. Yet that Paper, as <hi>L. Key</hi> hath now Printed it (though <hi>C. H.</hi> did what he could to mince the Matter in favour of that bad Woman) plainly prov<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s what I have written of her, ac<g ref="char:EOLhyphen"/>knowledging that it was reported ſhe did <hi>Lodge</hi> with (which is a fulle Expreſſion than to lye with, implying a continued uſe or courſe of lying with) her Father, which, as to Matter of Fact, <hi>ſhe doth not deny,</hi> but alledges it was with no evil intent, <hi>&amp;c.</hi> And though her <hi>Advocate C. H.</hi> in drawing up that Paper for her, to extenuate her Fault, did put in the Word [<hi>ſome<g ref="char:EOLhyphen"/>times</hi>] and [<hi>in the time of his aged weakneſs, and when he was ſick unto death</hi>] yet it is known the Report was not ſo: but her lying with her Father was ſpoken of by her Neighbours of the world with <hi>Abhorrence,</hi> and charged upon her as a <hi>Scandal to Religion.</hi> And thoſe Grave Women Friends whom at the Requeſt of the Mens Meeting, the Womans Meeting ſent to Examin her, and in<g ref="char:EOLhyphen"/>quire into that Buſineſs, made report to the mens Meeting, in as modeſt terms as they coul<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, that they found <hi>ſhe had behaved her ſelf very immodeſtly in her Carriage towards her Father.</hi> So that the more theſe men <hi>ſtirr</hi> in this <hi>foul</hi> Matter, the worſe they make both it and themſelves to <hi>ſmell.</hi>
+            </p>
+            <p>Another ſhift they have invented to excuſe their altering the Certificate, and bringing that Marriage among Friends, is, <hi>That it was then a time of Perſecution, and the People that owned the Houſe were not willing a Meeting ſhould be there.</hi> This <hi>L. Key</hi> ſays he <hi>has been told,</hi> &amp; this <hi>J. Raunce</hi> hath writ<g ref="char:EOLhyphen"/>ten to me and others: But this (ſo far as I can find) is another <hi>d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ful Artifice of theirs,</hi> quite void of Truth. For I have not only recollected my own Memory, and inquired of other Friends, but ſearched alſo the general <hi>Record</hi> of the Sufferings of Friends in this County, &amp; do not find there was any ſuffering upon Friends in theſe Parts, for Meetings either then, or a conſiderable time before or after. But ſince they have affirmed it was a time of Perſecution, let them name, if they can any one Friend that ſuffered about that time on the account of Meeting; in this Country. If they do not, it may be concluded they cannot; and that this pretence (of its being then a time of Per<g ref="char:EOLhyphen"/>ſecution) is but an <hi>invented falſhood,</hi> to excuſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their dirty Doings.</p>
+            <p>He complains that <hi>Nothing will ſerve me but an Anſwer in Print.</hi> He miſtakes, if he and they that ſet him on work, had honeſty enough to <hi>acknowledge their faults,</hi> that would ſerve me as well, and themſelves, better then any anſwer he or they could make. I ſay [<hi>they that ſet him on work</hi>] becauſe I look on him but as a <hi>Key,</hi> and others at <hi>Wickham</hi> to be the <hi>Hands</hi> that <hi>turn</hi> him <hi>forward</hi> or <hi>back<g ref="char:EOLhyphen"/>ward,</hi> at their pleaſures, who being conſcious to themſelves of the badneſs of their Cauſe, are not willing to appear publickly in it themſelves, and therefore have ſet this <hi>Tool</hi> to Work, who can <hi>blunder</hi> on at any rate, as little regarding to write Truth, as knowing how to write <hi>common Sence.</hi> In which reſpect I think it, I confeſs an Unhappineſs to me, to have to do with ſuch an one: For one had better deal with ten wiſe men, than one that thinks himſelf ſo, and is nothing leſs.</p>
+            <p>They are angry that, while their <hi>abuſive</hi> and <hi>ſlanderous</hi> Papers will not go off, unleſs they be gi<g ref="char:EOLhyphen"/>ven away, my juſt Defences are Printed and ſold without Charge to me. This made <hi>I. R.</hi> and <hi>C. H.</hi> formerly inquire, whether they were not <hi>paid for out of the publick Stock;</hi> and this makes <hi>L. Key</hi> now ſay of me, <hi>If he did pay for what he doth out of his own Pocket, I am ready to think we ſhould not hear ſo often from him.</hi> This is neither Chriſtian nor Manly; but ſilly and Cowardly: for ſince they hear no of<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ner from me than they <hi>off <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> Truth, Friends and me (what I have written to them being only <hi>Defenſive</hi>) ſo far as I remember) it ſeems they would be glad that I were <hi>diſabled</hi> from anſwering them, that ſo they might at pleaſure rail, revile, abuſe, reproach, defame, bely, ſlander Truth, Friends and me, in Print, and hope to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſecure from being Anſwered, at leaſt by me. How much this makes for their Credit, let them <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and the Reader Judge. Yet let them not de<g ref="char:EOLhyphen"/>ceive themſelves herein, but know aſſuredly <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> were I (as they with) uncapable of Anſwering them, through inability to pay for Printing, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhould they not thereby eſcape unreproved.</p>
+            <p>In my laſt, I charged <hi>L. Key</hi> with having <hi>ch<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ged</hi> the expreſs and plain Words of my Book, and thereby <hi>falſifyed</hi> the intent and meaning of them. As that was too manifeſt to be denyed, ſo he had not <hi>honeſty</hi> enough to confeſs his fault, nor <hi>ingenuity</hi> enough to be aſhamed of it. But in his laſt pa<g ref="char:EOLhyphen"/>per, not attempting to clear himſelf, nor anſwer my Charge, but thinking to wind himſelf off by a <hi>Wile,</hi> ſhe has run himſelf into a moſt <hi>fooliſh Abſurdity.</hi> He ſays, <hi>The Certificate</hi> (of that Marriage be<g ref="char:EOLhyphen"/>fore mentioned <hi>bears date the</hi> 12th. <hi>of the</hi> 1ſt. <hi>Month, in the year</hi> 1677. And a few lines after, ſays, <hi>The old man that ſet up the Womans Meeting</hi> (ſo ſcornfully and contemptibly doth he think and write of that honourable Servant of God <hi>G. F.) did come to Reading to endeavour it in the</hi> 6th. <hi>Month in the year</hi> 1681, Then he adds, <hi>Obſerve, this was above four years before that Marriage that</hi> T. E. <hi>hath made all this Clamour about.</hi> Is not this a rare Accomptant<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> who hath made the year 81. to be 4. years before the year 77? This is ſo <hi>obvious</hi> an Error, that as <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>one but ſuch a <hi>Fumbler</hi> would have made it, ſo had he not been blind he might have ſeen and corrected it. But he, being <hi>blinded with envy,</hi> and thinking to twiſt himſelf out of the <hi>Toyl</hi> he had run himſelf to before, plunged on Headlong into this <hi>Brake,</hi> without fear or wit, Conſideration or common Senſe. This one would think were enough to have drawn bluſhes into the Cheeks of any one, that deſerved the name of Man. But ſo <hi>ſtupid</hi> was he, that, thinking he had gained ſome Advantage by the <hi>Project,</hi> he falls to improving it, ſaying of me thus [<hi>ſo he was right in ſaying, it was before any Marriage had gone to the Womens Meetings.</hi>] This he infers from his notable Diſcovery, that 81. <hi>was</hi> 4. <hi>years before</hi> 77. but (not to let his <hi>folly</hi> excuſe his <hi>falſhood</hi>) it I was <hi>right</hi> in ſaying as I did, let him and all that abet him, conſider how <hi>wrong</hi> he was in <hi>altering</hi> thoſe Words of mine, and inſtead thereof, affirming I ſaid, <hi>It was before the Womens Mee<g ref="char:EOLhyphen"/>tings were ſet up.</hi> A ſort of <hi>Forgery,</hi> the guilt whereof I ſtill charge upon him.</p>
+            <p>Notwithſtanding this ridiculous blunder that he has made, ſo void of ſenſe he is, that, as if he had expoſed ſome weakneſs on my part, he ſcornfully reflects this ſentence on me, <hi>Great men are not always wiſe:</hi> Not underſtanding the Proverb that ſays (<hi>Nemo mortalium omnibus horis ſa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it</hi>) No man is always wiſe. But <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>! there is a <hi>ſort</hi> of Great men that are <hi>never</hi> wiſe (never were, nor ever are like to be) and they that know <hi>L.</hi> Key, know <hi>he is none of the leaſt men,</hi> either in <hi>Perſon</hi> or <hi>Conceit:</hi> He reflects on the Approvers of my Work: but I think the Approvers of his will get little Credit by it, unleſs he mend his hand at it. And indeed it is an Argument of <hi>judicial blindneſs,</hi> and great <hi>Infatuation of mind,</hi> in him and them that promote his Paper, that they ſhould ſpread it about as they do, without ſeeing the <hi>ſhameful blunder</hi> he <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> made in it. He adds another Text out of <hi>Job,</hi> which begins thus, <hi>
+                  <g ref="char:V">Ʋ</g>pright men ſhall be aſtoniſhed <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> this,</hi> and ends thus, <hi>I cannot find one wiſe man among you.</hi> Job. 17.8, 10. But ſurely if he and his <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, do but once as clearly prove, as he has confidently aſſerted, that 81. <hi>was</hi> 4. <hi>years before</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> men that hear it, will be aſtoniſhed at that, and I ſhall be forced to acknowledge, there are <hi>many wiſe men</hi> among them ſuch as they be.</p>
+            <p>Three great Inſtances he has already given; on<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of his <hi>Diſhoneſty,</hi> in altering my Words; another of his <hi>Hypocriſy,</hi> in ſpreading a Paper of Prop<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſals for Reconciliation and Peace, and at the ſame time printing another Paper to renew Contention and War; A third, of his <hi>Folly</hi> in compu<g ref="char:EOLhyphen"/>ting the times. Now, to manifeſt that his <hi>Malice</hi> is equal to the reſt, he here repeats his former Slander about my having ſuffered my Father to want<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Which having in his former Sheet delive<g ref="char:EOLhyphen"/>red upon an [<hi>it hath been ſaid</hi>] I returned upon himſelf, ſhewing how baſely I had been abuſed in that caſe by <hi>C. Harris,</hi> and another before, who when publickly called to Account for it, ſlunk back and durſt not undertake to make good their Charge <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Whereupon I laid it upon <hi>L. Key</hi> to name whom he had heard ſay it, to free himſelf from being <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eputed the Author as well as Publiſher of that envious ſlander. Which as it behoved him to have done, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o I conclude he would have done it, had he been able to have named any. But though he <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>renews his ſlander,</hi> yet he names no Author of it; but ſays, <hi>it hath been ſo ſaid by thoſe th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> &amp;c.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> his Proof that it hath been ſo ſaid, is ſaying again, that it hath been ſo ſaid, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> depends only on his credit, who in this caſe, deſerves none.</p>
+            <p>He cavils alſo at my Fathers being <hi>buried in that part of the ground, where</hi> (he ſays) <hi>they did uſe to Bury Strangers and Vagabounds.</hi> Had not he and his imployers, been <hi>Strangers to Chriſtianity and Ci<g ref="char:EOLhyphen"/>vil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y,</hi> they might have imployed themſelves better than to ride ſo many miles as ſome of them have done (perhaps 20. or more) to ſee if they could pick up<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Stone at my Fathers Grave to throw at me. I confeſs I am not ſo well acquainted with the Grave Yard, as to underſtand the <hi>difference of Places</hi> in it, or whether ſome parts of it be <hi>more conſecrated</hi> than others: Yet methinks, had he and his Informers remembred their <hi>former Principles</hi> they ſhould not have quarrelled with me for that. However, the Place for the Grave was not of my appointing: for, being prevented from being at the Burial, by a Meſſage my Father received in his Sickneſs, that my Siſter lay then ſick in <hi>London, near un<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o death,</hi> after I had waited upon my Father until he had finiſhed his life, and given direction for his In<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erment, I haſted up to my Siſter at <hi>London,</hi> as thinking I might be more ſerviceable to the Living, than to the Dead, and knew not in what part of the Ground the Grave was made, till at my return from <hi>London,</hi> I went thither to diſcharge the Charge of his Sickneſs and Funeral. This ſome of theſe men knew <hi>long ſince,</hi> which (had they been men of common Ingenuity) might have pre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted, as it may now Anſwer that other idle cavil about my not being preſent when my Father was laid in the Ground.</p>
+            <p>To conclude, as I neither need nor deſire favour, nor expect Juſtice from men ſo <hi>filled</hi> with <hi>Envy,</hi> and <hi>devouted</hi> to <hi>Miſchief:</hi> So I am glad that after all the pains they have taken, their running and riding, traverſing the Countries, from <hi>Wickham, Reading,</hi> and other parts, viewing the place, viſi<g ref="char:EOLhyphen"/>ting my Fathers Grave, (above ſeven years after his death) not in love to him, but hatred to me (even <hi>J. R.</hi> himſelf, going to the Grave, who is old enough, one would think, to have been wiſer, and has known that which would have made him better) examining Perſons, Sifting matters, asking many cunning and tempting Queſtions of the people of the World, to draw forth if they could, ſome matter of complaint againſt me, yea provoking (not to ſay ſuborning) ſome to pretend they had ſhewed kindneſs to my Father, that they might thereby either oblige me to reward <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch, (for nothing) or upbraide me with ungratitude, if I did not (while I not ſuſpecting ſuch <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly baſeneſs</hi> among them ſat innocent<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtill) they have not been able to pick or raiſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> up any thing, that might anſwer their Pains, or gratify their envy, but inſtead of defaming me (which they deſigned) they have ſufficiently defamed themſelves, in diſcovering ſo ill a mind. To whom yet, for all their evil Will, and evil Acting towards me, I wiſh nothing but Good. And though I cannot <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y of ſome of them (as our Lord ſaid of others of old) <hi>Father forgive them, they I now n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t what they <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> per<g ref="char:EOLhyphen"/>ſwaded that moſt of them that have a hand in this Work <hi>do ſin againſt knowledges</hi> as <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they do evil: yet, in pity to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem, I can, and do <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſay, <hi>Fath<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, if their day <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, give them Repentance, and forgive them.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed and ſold by <hi>T. Soule,</hi> at the <hi>Crooked-Billet</hi> in <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
